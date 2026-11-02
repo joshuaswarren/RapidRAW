@@ -81,6 +81,7 @@
 - [@xcv58](https://github.com/xcv58)
 - [@YannBirba](https://github.com/YannBirba)
 - [@yojen7](https://github.com/yojen7)
+
 _Linked GitHub accounts only. Anonymous (unlinked) commit authors are
 enumerable through the API (anon=true) but are identified there only by
 name/email, which this registry does not publish; credit them by hand in
